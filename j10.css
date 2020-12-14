@@ -1,0 +1,19 @@
+.cube
+{
+  background-color : cyan;
+  height : 256px;
+  width : 256px;
+  border-radius : 36px;
+  margin-top: 50px;
+}
+
+.container
+{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+h1 {
+  text-align: center;
+}
